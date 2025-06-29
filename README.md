@@ -59,5 +59,3 @@ To generate a similar report locally:
 npm install -g newman newman-reporter-htmlextra
 newman run <your-postman-collection.json> -r htmlextra --reporter-htmlextra-export "<Location>"
 
-![image](https://github.com/user-attachments/assets/8dd3fab9-ec0c-4b71-88be-93f2588f30ef)
-
